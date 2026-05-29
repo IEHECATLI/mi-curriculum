@@ -76,7 +76,6 @@ secrets/
 
 # node package lock optional
 
-package-lock.json
 
 # python
 
