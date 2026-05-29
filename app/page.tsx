@@ -165,7 +165,7 @@ className="btn primary"
     ))}
    </section>
 
-   ```tsx id="5ih4m3"
+  
 <section className="section">
   <h2>{t.education}</h2>
 
@@ -270,7 +270,6 @@ className="btn primary"
 
   </div>
 </section>
-```
 
 
    <section className="section" id="contact">
