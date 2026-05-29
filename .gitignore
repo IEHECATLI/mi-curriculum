@@ -1,0 +1,84 @@
+# dependencies
+
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# next.js
+
+/.next/
+/out/
+/build
+
+# production
+
+/dist
+
+# logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+
+.vercel
+
+# system
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# typescript
+
+*.tsbuildinfo
+next-env.d.ts
+
+# cache
+
+.cache/
+.turbo/
+
+# temporary
+
+*.tmp
+*.temp
+
+# certificates source backups
+
+*.psd
+*.ai
+
+# personal/private files
+
+private/
+backup/
+secrets/
+
+# node package lock optional
+
+package-lock.json
+
+# python
+
+**pycache**/
+*.pyc

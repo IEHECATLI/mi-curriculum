@@ -1,0 +1,1 @@
+"use client";import { useState } from 'react';export default function DarkModeToggle(){const [dark,setDark]=useState(false);return(<button className="mt-4" onClick={()=>{setDark(!dark);document.body.classList.toggle('dark');}}>{dark?'Switch to Light':'Switch to Dark'}</button>)}

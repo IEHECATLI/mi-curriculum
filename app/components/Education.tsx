@@ -1,0 +1,1 @@
+export default function Education(){return(<section className="mb-8 bg-gray-100 p-6 rounded"><h2 className="text-2xl font-bold mb-4">Educación</h2><div className="border p-4 rounded bg-white"><h3 className="text-xl font-bold">Ingeniería de Sistemas Informáticos</h3><span>Universidad Suiza ISU (2021–2025)</span></div></section>)}

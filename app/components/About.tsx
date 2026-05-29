@@ -1,0 +1,1 @@
+export default function About(){return(<section className="mb-8"><h2 className="text-2xl font-bold mb-4">Perfil</h2><p>Ingeniero de sistemas informáticos con más de 10 años de experiencia en operaciones, inventario y análisis de datos.</p></section>)}
